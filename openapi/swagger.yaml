@@ -3,9 +3,9 @@ info:
   title: Products - POC
   description: |
     A draft API resource model for products proof of concept based on Medicare Products and Plans
-  version: "3"
+  version: 1.0.0
 servers:
-- url: https://virtserver.swaggerhub.com/RAJESHP1231234_1/Test/1.0.0
+- url: https://virtserver.swaggerhub.com/RAJESHP1231234_1/Rajesh/1.0.0
   description: SwaggerHub API Auto Mocking
 - url: https://virtserver.swaggerhub.com/Enterprise-API/Producs-POC/1.0.0
   description: SwaggerHub API Auto Mocking
